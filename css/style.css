@@ -1,0 +1,89 @@
+#searchinp{
+    border-radius: 5px 0px 0px 5px !important;
+    /* box-shadow: 2px 2px 8px black; */
+}
+#search{
+    color: white;
+    background-color: #5E3CD8;;
+    border-radius: 0px 5px 5px 0px;
+}
+#search:hover{
+    background-color: #F5E70E !important;
+    color: black !important;
+}
+/* head2  */
+span i:hover{
+    color: #F5E70E !important;
+}
+/* head2  */
+
+/* navbar start */
+.navbar-collapse ul li a:hover{
+    color: #5E3CD8 !important;
+}
+/* navbar end */
+
+/* polular category index */
+.zoom-in:hover{
+    transform: scale(1.1);
+    box-shadow: 1px 1px 15px #5E3CD8 !important;
+}
+.zoom-in{
+    transition: 0.5s ease;
+}
+/* .zoom-in{
+    overflow: hidden;
+} */
+/* polular category index */
+
+/* instagram img animation */
+.margin-top:hover{
+    margin-top: -20px;
+    box-shadow: 1px 1px 15px #5E3CD8 !important;
+}
+.margin-top{
+    transition: 0.5s ease;
+}
+/* instagram img animation */
+.col-sm-2>img{
+    border-radius: 100%;
+    /* box-shadow: 5px 5px 10px black; */
+}
+.col-sm-5>.card>a>img{
+    border-radius: 100%;
+    border: 5px solid white;
+    
+}
+.col-sm-2 .card p span .btn:hover{
+    background-color: #F5E70E !important;
+    color: black !important;
+}
+.row .btn:hover{
+    background-color: #F5E70E !important;
+    color: black !important;
+}
+
+/* login pge */
+#bg{
+    background: linear-gradient(
+        rgba(55, 54, 54, 0.372),  /* Top color with 50% opacity */
+        rgba(55, 54, 54, 0.372)   /* Bottom color with 10% opacity */
+      ), 
+      url('../images/loginbg1.jpg');
+      background-size: cover;
+}
+/* login pge */
+
+/* contact pge */
+#location{
+    border-radius: 100%;
+    background-color: #5E3CD8;
+    color: white;
+}
+#location:hover{
+    background-color: white;
+    border: 1px solid #5E3CD8 !important;
+    color: black;
+}
+
+/* contact pge */
